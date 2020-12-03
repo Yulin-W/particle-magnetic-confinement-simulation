@@ -1,0 +1,58 @@
+Criteria
+- Containing machine learning and ai stuff
+- Contain considerable data analysis
+- Be physics relavant, particularly aerospace, energy
+- Ideally some area where you're not repeating past stuff but is a new thing (in fact, ideally related to future research or even PhD)
+- Achievable given time span of 24hr + 12hr (outside class); data generation 
+- Include visualisation but not too much (though some could be possibly made to game like)
+
+Potential choices
+- Plasma dynamics (ideally try to play around with magnetic confinement, cost interest in fusion): can learn stuff, but hard, good thing is its in line with my technical aspects
+	- Or perhaps at least just simple particle simulation in stuff for magnetic confinement
+	- Tokamak confinement; tokamak scattering; tokamak drift
+	- Gravitational drift
+	- ExB drift
+	- Gradient drift
+- Brachistochrone: DO THIS FOR MORE SO SIMPLE STUFF
+	- Computationally confirming that that shape is the precise solution
+	- Alterning starting position and checking that time remains unchanged
+	- Branchistochrone with friction
+	- Analyse different variables and their effects on descent time, relate to acceleration curves and profiles and so on and consider energy treatments
+- Simple rocket simulation, rocket equation: DO THIS IF WANNA CHECK IF LIKE AEROSPACE
+	- Ideal speeds given atmospheric resistsnce (might become too complicated)
+	- Optimal staging
+	- Ideal fuel use vs time
+	- Going to alpha centauri
+
+
+Less likely stuff cos too technical for my level, though i'd say look into fusion
+- Orbital reconstruction based on obersvational data on earth (i.e. regressing stuff like distances (for now i guess just the solar system is nice) focus on past data and stuff) seems intriguing
+	- Use known data to train (perhaps do AI as well; or maybe numeric solution solving; the idea is if Galileo could do it I'm sure we could)
+	- Use known data to validify
+	- Use new more recent data and so on to predcit (and see if conforms with predictions of the academics) on properties of the bodies (I guess mainly focuso n position as opposed to other harder stuff (though if turns out easy the mass calculation is possible as well but that requires far more effort i think))
+- n-body problem in 3D # seems likely: easy but extensible; issue, don't get to learn much physics though i guess possible as well we'll see
+	- Chaos (more indepth look into chaos theory)
+	- Orbital manoeuvre
+	- Space trajectory rocket launching 
+	- Ideal path planning from Earth to say Mars: i.e. predict best time to launch and so on, gravitational slingshot
+- Hydroelectricity simulation
+- Tidal energy simulation
+- Fusion: one of Too much theory for realistic carry out
+	- Plasma confinement
+	- Fusion in sun
+	- Tokamak
+- Ion engine
+- Information and energy
+- Aerofoil lift
+- Modelling space elevator (2D should be viable)
+	- Stress in material
+	- Payload
+	- Counter weight
+	- Orbit design
+- Traffic modelling (urban road design or the simplified thing)
+- Energy use modelling and predictions; both in energy units and cost units (so along that energy economic idea) (i mean epidemiology is suggested, so energy sue?)
+	- Come up with some model for say energy use and demand and so on; use past data to train parameters; use a validation data set to validify, use other data to predict and test
+	- Energy demand
+	- Energy cost
+	- Long time trends
+	- The main issue is do this or plasma; cos i kinda don't wanna do economics stuff, more so interested in the physics
